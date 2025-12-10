@@ -5,5 +5,5 @@ Proyecto diseñado para que una pequeña empresa pueda tener un registro fácil 
 ## Estructura del Proyecto
 - database/: Scripts y herramientas para la gestión de la base de datos.
 - docs/: Documentación del proyecto.
-- `src/`: Código fuente de la aplicación.
+- src/: Código fuente de la aplicación.
 Esto deberá ser un commit adicional al commit inicial, dale un mensaje semántico (docs).
